@@ -1,0 +1,2 @@
+# Patterns
+coding notes
